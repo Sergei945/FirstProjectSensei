@@ -11,4 +11,11 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
+<<<<<<< HEAD
 *.xcworkspace
+=======
+*.xcworkspace
+
+# Cache files for the editor to use
+DerivedDataCache/*
+>>>>>>> 415f581bd323ade0b942eac4d766015644640782
